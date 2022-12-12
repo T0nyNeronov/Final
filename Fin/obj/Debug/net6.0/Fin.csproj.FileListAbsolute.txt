@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\Fin.exe
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\Fin.deps.json
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\Fin.runtimeconfig.json
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\Fin.dll
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\ref\Fin.dll
+C:\Users\Людмила\Desktop\FinalWork\Fin\bin\Debug\net6.0\Fin.pdb
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.dll
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\ref\Fin.dll
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.pdb
+C:\Users\Людмила\Desktop\FinalWork\Fin\obj\Debug\net6.0\Fin.genruntimeconfig.cache
